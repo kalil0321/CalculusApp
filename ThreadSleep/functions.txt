@@ -1,0 +1,502 @@
+-------------------- New session : Wed Apr 06 14:48:28 CEST 2022
+Graph of : x;
+Limit of : x;
+-------------------- New session : Thu Apr 07 00:52:14 CEST 2022
+Graph of : (x**2 + y**2)/2;
+Limit of : (x**2 + y**2)/2;
+Graph of : (x**2 + y**2)/(x**2);
+Limit of : (x**2 + y**2)/(x**2);
+-------------------- New session : Thu Apr 07 01:09:15 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 01:11:54 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 01:14:33 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 01:15:00 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 01:16:36 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 01:17:46 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 01:25:04 CEST 2022
+Graph of : ;
+Limit of : x;
+Graph of : x;
+-------------------- New session : Thu Apr 07 01:33:39 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 02:03:05 CEST 2022
+Graph of : ;
+Graph of : ;
+Graph of : ;
+Graph of : ;
+Limit of : ;
+Limit of : ;
+Limit of : ;
+Limit of : ;
+Graph of : ;
+-------------------- New session : Thu Apr 07 13:40:19 CEST 2022
+Limit of : x + 2 * (x)/(y);
+Graph of : x + 2 * (x)/(y);
+-------------------- New session : Thu Apr 07 13:42:38 CEST 2022
+Limit of : x + y + x/y + sin(x**2 + y/x);
+Graph of : x + y + x/y + sin(x**2 + y/x);
+Graph of : x + y + (x)/(y) + sin(x**2 + (y)/(x));
+Graph of : x + y + (x)/(y) + sin(x**2 + (y)/(x));
+-------------------- New session : Thu Apr 07 13:45:01 CEST 2022
+Limit of :  x + y + (x)/(y) + sin(x**2 + (y)/(x));
+Graph of :  x + y + (x)/(y) + sin(x**2 + (y)/(x));
+-------------------- New session : Thu Apr 07 14:25:58 CEST 2022
+Limit of : x;
+Limit of : x + 1;
+-------------------- New session : Thu Apr 07 14:28:00 CEST 2022
+Limit of : y;
+Limit of : y;
+Limit of : y;
+-------------------- New session : Thu Apr 07 14:28:23 CEST 2022
+Limit of : y;
+-------------------- New session : Thu Apr 07 14:29:00 CEST 2022
+Limit of : y;
+-------------------- New session : Thu Apr 07 14:30:06 CEST 2022
+Limit of : x + 1;
+-------------------- New session : Thu Apr 07 14:31:24 CEST 2022
+Limit of : x + 1;
+-------------------- New session : Thu Apr 07 14:33:45 CEST 2022
+Limit of : x;
+-------------------- New session : Thu Apr 07 14:34:56 CEST 2022
+Limit of : coucou;
+-------------------- New session : Thu Apr 07 14:41:05 CEST 2022
+Limit of : x**2/y**2;
+-------------------- New session : Thu Apr 07 14:44:00 CEST 2022
+Limit of : ;
+-------------------- New session : Thu Apr 07 14:47:03 CEST 2022
+Limit of : x + y;
+-------------------- New session : Thu Apr 07 14:48:54 CEST 2022
+Limit of : ccc;
+-------------------- New session : Thu Apr 07 14:49:53 CEST 2022
+Limit of : ;
+-------------------- New session : Thu Apr 07 14:50:25 CEST 2022
+Limit of : ;
+-------------------- New session : Thu Apr 07 15:02:36 CEST 2022
+Derivative of : x**2;
+-------------------- New session : Thu Apr 07 15:03:17 CEST 2022
+Derivative of : x+ 1;
+-------------------- New session : Thu Apr 07 15:03:19 CEST 2022
+Graph of : x+ 1;
+Graph of : x+ 1;
+-------------------- New session : Thu Apr 07 15:04:04 CEST 2022
+Derivative of : x + 2;
+-------------------- New session : Thu Apr 07 15:04:11 CEST 2022
+Derivative of : x + 2;
+-------------------- New session : Thu Apr 07 15:04:32 CEST 2022
+Derivative of : x + 2;
+-------------------- New session : Thu Apr 07 15:04:41 CEST 2022
+Derivative of : log(x) + 2;
+-------------------- New session : Thu Apr 07 15:06:03 CEST 2022
+Graph of : log(x) + 2;
+Graph of : log(x) + 2;
+Graph of : log(x + y * cos(x*y)) + 2;
+-------------------- New session : Thu Apr 07 15:09:27 CEST 2022
+Derivative of : log(x + y * cos(x*y)) + 2;
+-------------------- New session : Thu Apr 07 15:09:27 CEST 2022
+Limit of : log(x + y * cos(x*y)) + 2;
+-------------------- New session : Thu Apr 07 15:19:55 CEST 2022
+Derivative of : log(x + y * cos(x*y)) + 2;
+-------------------- New session : Thu Apr 07 15:20:54 CEST 2022
+Graph of : log(x + y * cos(x*y)) + 2;
+-------------------- New session : Thu Apr 07 15:25:10 CEST 2022
+Derivative of : x**2 * y**2 + sin(x);
+-------------------- New session : Thu Apr 07 15:25:32 CEST 2022
+Graph of : x**2 * y**2 + sin(x);
+Limit of : x**2 * y**2 + sin(x);
+-------------------- New session : Thu Apr 07 15:39:16 CEST 2022
+Derivative of : ;
+-------------------- New session : Thu Apr 07 15:39:18 CEST 2022
+Derivative of : ;
+-------------------- New session : Thu Apr 07 15:39:22 CEST 2022
+Derivative of : ;
+-------------------- New session : Thu Apr 07 15:39:30 CEST 2022
+Derivative of : x + y;
+-------------------- New session : Thu Apr 07 15:39:32 CEST 2022
+Derivative of : x + y;
+-------------------- New session : Thu Apr 07 15:39:33 CEST 2022
+Derivative of : x + y;
+-------------------- New session : Thu Apr 07 15:39:41 CEST 2022
+Derivative of : x + y;
+-------------------- New session : Thu Apr 07 15:39:42 CEST 2022
+Derivative of : x + y;
+-------------------- New session : Thu Apr 07 15:39:59 CEST 2022
+Derivative of : 2*x + y + 2;
+-------------------- New session : Thu Apr 07 15:40:01 CEST 2022
+Derivative of : 2*x + y + 2;
+-------------------- New session : Thu Apr 07 15:40:22 CEST 2022
+Derivative of : x + 2;
+-------------------- New session : Thu Apr 07 15:41:06 CEST 2022
+Limit of : ;
+Derivative of : x*x;
+Derivative of : x*x;
+-------------------- New session : Thu Apr 07 15:44:50 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 15:46:01 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 15:48:07 CEST 2022
+Graph of : ;
+-------------------- New session : Thu Apr 07 15:50:22 CEST 2022
+Derivative of : ;
+-------------------- New session : Thu Apr 07 15:50:33 CEST 2022
+Limit of : ;
+-------------------- New session : Thu Apr 07 15:52:02 CEST 2022
+Limit of : ;
+Derivative of : ;
+-------------------- New session : Thu Apr 07 15:54:18 CEST 2022
+Derivative of : x + y;
+-------------------- New session : Thu Apr 07 15:54:24 CEST 2022
+Derivative of : x + 2*y;
+-------------------- New session : Thu Apr 07 15:54:31 CEST 2022
+Derivative of : x*x + 2*y;
+-------------------- New session : Thu Apr 07 15:54:31 CEST 2022
+Limit of : x*x + 2*y;
+Derivative of : x*x + 2*y;
+-------------------- New session : Thu Apr 07 23:38:34 CEST 2022
+Derivative of : x**2;
+-------------------- New session : Thu Apr 07 23:38:36 CEST 2022
+Derivative of : x**2;
+-------------------- New session : Thu Apr 07 23:42:22 CEST 2022
+Derivative of : x**;
+-------------------- New session : Thu Apr 07 23:42:24 CEST 2022
+Limit of : x**;
+Derivative of : x**2;
+Limit of : x**2;
+-------------------- New session : Thu Apr 07 23:43:47 CEST 2022
+Derivative of : x**1;
+-------------------- New session : Thu Apr 07 23:43:48 CEST 2022
+Limit of : x**1;
+Derivative of : x**2;
+Limit of : x**2;
+Derivative of : x**2 + x;
+Limit of : x**2 + x;
+Derivative of : x**2+x;
+Limit of : x**2+x;
+Graph of : x**2+x;
+Derivative of : x**2 + x;
+Limit of : x**2 + x;
+-------------------- New session : Thu Apr 07 23:53:39 CEST 2022
+Derivative of : x + y;
+-------------------- New session : Thu Apr 07 23:53:40 CEST 2022
+Limit of : x + y;
+Derivative of : x + y;
+Derivative of : x + y;
+Derivative of : x + 2*y;
+Limit of : x + 2*y;
+Derivative of : x + 2*y;
+Derivative of : x + 2**y;
+Limit of : x + 2**y;
+Derivative of : 2**y;
+Limit of : 2**y;
+Derivative of : 2**y;
+Limit of : 2**y;
+Limit of : y;
+Derivative of : y;
+Limit of : y;
+-------------------- New session : Fri Apr 08 00:04:27 CEST 2022
+Derivative of : x;
+-------------------- New session : Fri Apr 08 00:04:39 CEST 2022
+Derivative of : x;
+-------------------- New session : Fri Apr 08 00:04:40 CEST 2022
+Limit of : x;
+Limit of : x;
+Derivative of : x;
+Derivative of : x;
+Derivative of : x;
+-------------------- New session : Fri Apr 08 00:07:20 CEST 2022
+Derivative of : x*y;
+-------------------- New session : Fri Apr 08 00:07:20 CEST 2022
+Limit of : x*y;
+Derivative of : x*y + y;
+Limit of : x*y + y;
+Derivative of : x*y + y;
+Limit of : x*y + y;
+-------------------- New session : Fri Apr 08 00:08:35 CEST 2022
+Derivative of : xc;
+-------------------- New session : Fri Apr 08 00:08:37 CEST 2022
+Limit of : xc;
+-------------------- New session : Fri Apr 08 02:35:15 CEST 2022
+Derivative of : x + 1 + sqrt(y*x);
+-------------------- New session : Fri Apr 08 02:35:49 CEST 2022
+Derivative of : sqrt(y*x);
+-------------------- New session : Fri Apr 08 02:36:00 CEST 2022
+Derivative of : sqrt(x);
+-------------------- New session : Fri Apr 08 02:36:11 CEST 2022
+Derivative of : sqrt(x*y);
+-------------------- New session : Fri Apr 08 02:37:13 CEST 2022
+Graph of : sqrt(x*y);
+-------------------- New session : Fri Apr 08 03:06:11 CEST 2022
+Derivative of : x**2;
+-------------------- New session : Fri Apr 08 03:06:12 CEST 2022
+Limit of : x**2;
+-------------------- New session : Fri Apr 08 03:20:41 CEST 2022
+Derivative of : x**2;
+-------------------- New session : Sat Apr 09 00:22:59 CEST 2022
+Limit of : ;
+-------------------- New session : Sat Apr 09 00:51:15 CEST 2022
+Limit of : ;
+-------------------- New session : Sat Apr 09 01:41:14 CEST 2022
+Derivative of : x;
+-------------------- New session : Sat Apr 09 01:41:15 CEST 2022
+Limit of : x;
+-------------------- New session : Sat Apr 09 17:28:56 CEST 2022
+Graph of : (2*y**3*x)/((x**2+y**2)**2);
+Limit of : (2*y**3*x)/((x**2+y**2)**2);
+Derivative of : (2*y**3*x)/((x**2+y**2)**2);
+-------------------- New session : Sat Apr 09 17:34:59 CEST 2022
+Limit of : (2*y**3*x)/((x**2+y**2)**2);
+-------------------- New session : Sat Apr 09 17:36:06 CEST 2022
+Graph of : (2*y**3*x)/((x**2+y**2)**2);
+Graph of : (2*y**3*x)/(x**2+y**2)**2;
+Graph of : (2*y**3*x)/((x**2+y**2)**2);
+-------------------- New session : Sat Apr 09 18:50:06 CEST 2022
+Graph of : x;
+-------------------- New session : Sat Apr 09 18:50:47 CEST 2022
+Graph of : x;
+Graph of : x;
+Graph of : x;
+-------------------- New session : Sat Apr 09 18:54:02 CEST 2022
+Graph of : x;
+-------------------- New session : Sat Apr 09 18:55:59 CEST 2022
+Limit of : (2*y**3*x)/((x**2+y**2)**2);
+Graph of : (2*y**3*x)/((x**2+y**2)**2);
+-------------------- New session : Sat Apr 09 18:58:15 CEST 2022
+Limit of : (2*y**3*x)/((x**2+y**2)**2);
+-------------------- New session : Sat Apr 09 18:59:09 CEST 2022
+Graph of : (2*y**3*x)/((x**2+y**2)**2);
+Limit of : (2*y**3*x)/((x**2+y**2)**2);
+Limit of : (x**4 - x**2*y**2)/((x**2+y**2)**2);
+Limit of : (x**4 - x**2*y**2)/((x**2+y**2)**2);
+Graph of : (x**4 - x**2*y**2)/((x**2+y**2)**2);
+Graph of : ln(r)/r;
+Graph of : ln(x)/x;
+Graph of : (x)/x;
+-------------------- New session : Sat Apr 09 19:02:17 CEST 2022
+Limit of : (x)/y;
+Graph of : (x)/y;
+-------------------- New session : Sat Apr 09 19:04:52 CEST 2022
+Graph of : (x)/y;
+-------------------- New session : Sun Apr 10 00:20:58 CEST 2022
+Graph of : (x)/y;
+Graph of : (x)/(y);
+Graph of : x/(y);
+Derivative of : x/(y);
+Limit of : x/(y);
+-------------------- New session : Sun Apr 10 01:27:00 CEST 2022
+Graph of : (x)/y;
+Graph of : (x)/(y);
+Graph of : (x)/(x+y);
+Graph of : x/(x+y);
+-------------------- New session : Sun Apr 10 01:29:16 CEST 2022
+Graph of : (x)/y;
+Graph of : ((x)/y);
+Graph of : 2*((x)/y);
+Graph of : (x)/(y);
+Graph of : x/y;
+Graph of : (x+2)/y;
+-------------------- New session : Sun Apr 10 13:05:59 CEST 2022
+Graph of : x*y*log(x**2+y**2);
+Graph of : x*y*log(x**2+y**2);
+Limit of : x*y*log(x**2+y**2);
+-------------------- New session : Sun Apr 10 14:11:46 CEST 2022
+Derivative of : x/y + y/x;
+-------------------- New session : Sun Apr 10 14:11:57 CEST 2022
+Derivative of : x/y + y/x;
+-------------------- New session : Sun Apr 10 14:12:42 CEST 2022
+Derivative of : x**(y**z);
+-------------------- New session : Sun Apr 10 14:14:17 CEST 2022
+Derivative of : sin(x**2*y)*cosh(y-x);
+-------------------- New session : Sun Apr 10 14:15:20 CEST 2022
+Derivative of : sin(x**2*y)*cosh(y-x);
+-------------------- New session : Sun Apr 10 14:16:30 CEST 2022
+Derivative of : (sinh((x+3*y*z)/(z-2)))**2;
+-------------------- New session : Sun Apr 10 14:17:15 CEST 2022
+Derivative of : (sinh((x+3*y*z)/(z-2)))**2;
+-------------------- New session : Sun Apr 10 14:18:06 CEST 2022
+Derivative of : (x**2*y)/(x**2+y**2);
+-------------------- New session : Sun Apr 10 14:18:10 CEST 2022
+Limit of : (x**2*y)/(x**2+y**2);
+Limit of : x*y*log(x**2+y**2);
+Limit of : x*y*log(x**2+y**2);
+Limit of : x*y*log(x**2+y**2) +1;
+Graph of : x*y*log(x**2+y**2) +1;
+Graph of : (x**2*y)/(x**2+y**2);
+Limit of : (x**2*y)/(x**2+y**2);
+Graph of : (sinh((x+3*y*z)/(z-2)))**2;
+Graph of : (sinh((x+3*y)/(x-2)))**2;
+Graph of : (sinh((x+3*y)/(y-2)))**2;
+Graph of : (x*y**2-y*x**2)/(x**2+y**2)**(3/2);
+Graph of : (x*y**2-y*x**2)/((x**2+y**2))**(3/2);
+Graph of : (x*y**2-y*x**2)/(x**2+y**2);
+Limit of : (x*y**2-y*x**2)/(x**2+y**2);
+Graph of : (x*y**2-y*x**2)/((x**2+y**2)**(3/2));
+Graph of : (x*y**2-y*x**2)/((x**2+y**2)**(3/2));
+Limit of : (x*y**2-y*x**2)/((x**2+y**2)**(3/2));
+Derivative of : (x*y**2-y*x**2)/((x**2+y**2)**(3/2));
+Limit of : (x*y**2-y*x**2)/((x**2+y**2)**(3/2));
+Graph of : (x*y**2-y*x**2)/((x**2+y**2)**(3/2)) ;
+
+-------------------- New session : Sun Apr 10 14:54:19 CEST 2022
+Graph of : (x*y**2-y*x**2)/((x**2+y**2)**(3/2));
+-------------------- New session : Sun Apr 10 15:03:26 CEST 2022
+Graph of : x**2;
+Graph of : x**2;
+-------------------- New session : Sun Apr 10 15:05:02 CEST 2022
+Graph of : x**2 + y**2;
+-------------------- New session : Sun Apr 10 15:05:46 CEST 2022
+Graph of : sqrt(x*y);
+-------------------- New session : Sun Apr 10 15:07:27 CEST 2022
+Graph of : x;
+-------------------- New session : Sun Apr 10 15:08:17 CEST 2022
+Graph of : x;
+-------------------- New session : Sun Apr 10 15:09:16 CEST 2022
+Graph of : x;
+Graph of : x;
+-------------------- New session : Sun Apr 10 15:11:37 CEST 2022
+Graph of : ;
+Graph of : x;
+-------------------- New session : Sun Apr 10 15:12:56 CEST 2022
+Graph of : x;
+-------------------- New session : Sun Apr 10 15:13:24 CEST 2022
+Graph of : x;
+Graph of : x;
+-------------------- New session : Sun Apr 10 15:15:19 CEST 2022
+Graph of : x;
+Limit of : x;
+-------------------- New session : Sun Apr 10 15:17:01 CEST 2022
+Graph of : x + 2;
+-------------------- New session : Sun Apr 10 15:17:49 CEST 2022
+Graph of : ;
+Graph of : x;
+-------------------- New session : Sun Apr 10 15:20:40 CEST 2022
+Derivative of : x+y;
+-------------------- New session : Sun Apr 10 15:35:18 CEST 2022
+Limit of : ;
+-------------------- New session : Sun Apr 10 15:37:32 CEST 2022
+Derivative of : ;
+-------------------- New session : Sun Apr 10 15:37:38 CEST 2022
+Derivative of : x;
+-------------------- New session : Sun Apr 10 15:38:42 CEST 2022
+Graph of : ;
+-------------------- New session : Sun Apr 10 16:29:18 CEST 2022
+Derivative of : x + 2;
+-------------------- New session : Sun Apr 10 16:29:30 CEST 2022
+Derivative of : x + 2 + 3x;
+-------------------- New session : Sun Apr 10 16:29:48 CEST 2022
+Derivative of : x + 2 + 3*x;
+-------------------- New session : Sun Apr 10 16:46:21 CEST 2022
+Graph of : x*y**3;
+Graph of : x*y;
+Graph of : x*y*l*n(x*y);
+-------------------- New session : Sun Apr 10 16:56:05 CEST 2022
+Graph of : x*y*ln(x*y);
+-------------------- New session : Sun Apr 10 17:13:07 CEST 2022
+Derivative of : x*y;
+-------------------- New session : Sun Apr 10 17:13:14 CEST 2022
+Derivative of : x*y;
+-------------------- New session : Sun Apr 10 17:13:16 CEST 2022
+Limit of : x*y;
+Limit of : x*y;
+Limit of : x*y;
+Limit of : x/y;
+Graph of : x/y;
+Graph of : x/y**2;
+Graph of : x/(y**2);
+Graph of : ((x/(y))**2);
+-------------------- New session : Mon Apr 11 13:30:26 CEST 2022
+Graph of : x**2*y;
+Graph of : x**(2*y);
+Derivative of : x**(2*y);
+Limit of : x**(2*y);
+-------------------- New session : Mon Apr 11 15:27:31 CEST 2022
+Graph of : x*y;
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 15:27:54 CEST 2022
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 15:52:35 CEST 2022
+Graph of : x + y;
+-------------------- New session : Mon Apr 11 15:53:30 CEST 2022
+Graph of : x + sqrt(y) + ln(x*y + cos(x));
+Limit of : x + sqrt(y) + ln(x*y + cos(x));
+-------------------- New session : Mon Apr 11 15:57:14 CEST 2022
+Graph of : x + y;
+-------------------- New session : Mon Apr 11 15:58:42 CEST 2022
+Limit of : ;
+-------------------- New session : Mon Apr 11 15:59:42 CEST 2022
+Limit of : ;
+-------------------- New session : Mon Apr 11 16:00:15 CEST 2022
+Limit of : ;
+-------------------- New session : Mon Apr 11 16:09:17 CEST 2022
+Limit of : x*y;
+Limit of : x*y;
+Limit of : x*y;
+-------------------- New session : Mon Apr 11 16:10:08 CEST 2022
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 16:10:57 CEST 2022
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 16:11:57 CEST 2022
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 16:13:48 CEST 2022
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 16:14:39 CEST 2022
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 16:15:13 CEST 2022
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 16:16:23 CEST 2022
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 16:17:36 CEST 2022
+Graph of : x;
+-------------------- New session : Mon Apr 11 16:19:45 CEST 2022
+Graph of : 2*cos(x*y);
+-------------------- New session : Mon Apr 11 16:20:59 CEST 2022
+Graph of : x*y;
+-------------------- New session : Mon Apr 11 16:25:16 CEST 2022
+Graph of : x;
+Graph of : x*y;
+Graph of : x*y*z;
+Graph of : x*y*2*3;
+-------------------- New session : Wed Apr 13 02:19:49 CEST 2022
+Graph of : x*y + ln(x*y + e*x*p(cos(x/y)));
+-------------------- New session : Wed Apr 13 02:22:33 CEST 2022
+Graph of : x*y + ln(x*y + exp(cos(x/y)));
+Graph of : x*y + ln(x*y + exp(cos(x/y)));
+Graph of : ln(x*y + exp(cos(x/y)));
+Derivative of : ln(x*y + exp(cos(x/y)));
+Graph of : ln(x*y);
+Derivative of : ln(x*y);
+Graph of : ln(x*y*exp(x*y)) * sqrt(1 + x/2 + (x**2 - y**2)/(x**2));
+Graph of : sqrt(1 + x/2 + (x**2 - y**2)/(x**2));
+Graph of : sqrt(1 + x/2 + (x**2 - y**2)/(x**2 + y**"));
+Graph of : sqrt(1 + x/2 + (x**2 - y**2)/(x**2 + y**2));
+Graph of : sqrt((x**2 - y**2)/(x**2 + y**2));
+Graph of : cos(sqrt((x**2 - y**2)/(x**2 + y**2)));
+Graph of : sin(cos(sqrt((x**2 - y**2)/(x**2 + y**2))));
+Graph of : ln(sin(cos(sqrt((x**2 - y**2)/(x**2 + y**2)))));
+Graph of : ln(sin(cos((x**2 - y**2)/(x**2 + y**2))));
+Derivative of : ln(sin(cos((x**2 - y**2)/(x**2 + y**2))));
+Limit of : ln(sin(cos((x**2 - y**2)/(x**2 + y**2))));
+Graph of : ln(sin(cos((x**2 - y**2)/(x**2 + y**2))));
+Graph of : ln(sin(cos((x**2 - x**2)/(x**2 + x**2))));
+Graph of : ln(sin(cos((x**2 - x**2)/(x**2 + x**2))));
+Graph of : ln(sin(cos((y*x**2 - x**2)/(x**2 + x**2))));
+Graph of : ln(cos((y*x**2 - x**2)/(x**2 + x**2)));
+Graph of : cos((y*x**2 - x**2)/(x**2 + x**2));
+Graph of : sin((y*x**2 - x**2)/(x**2 + x**2));
+Graph of : tan(sin((y*x**2 - x**2)/(x**2 + x**2))) * sqrt(x*y);
+Graph of : exp(cos(x*y) + sin(x/y));
+Limit of : exp(cos(x*y) + sin(x/y));
+-------------------- New session : Wed Apr 13 02:37:49 CEST 2022
+Derivative of : x;
+-------------------- New session : Wed Apr 13 02:37:54 CEST 2022
+Limit of : x;
+Derivative of : x;
+-------------------- New session : Wed Apr 13 02:52:41 CEST 2022
+Derivative of : x;
+-------------------- New session : Wed Apr 13 02:54:28 CEST 2022
+Derivative of : x;
+-------------------- New session : Wed Apr 13 02:55:23 CEST 2022
+Derivative of : x*y;
